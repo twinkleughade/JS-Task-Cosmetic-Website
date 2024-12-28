@@ -1,0 +1,120 @@
+{
+  "productDetail": [
+    {
+      "id": "1",
+      "name": "Facewash",
+      "price": 800,
+      "images": [
+        "mamaearth facewash.jpeg"
+      ]
+    },
+    {
+      "id": "2",
+      "name": "Lotion",
+      "price": 799,
+      "images": [
+        "lotion joy.webp"
+      ]
+    },
+    {
+      "id": "3",
+      "name": "hair comb",
+      "price": 350,
+      "images": [
+        "comb 8.jpg"
+      ]
+    },
+    {
+      "id": "4",
+      "name": "Foundation",
+      "price": 5000,
+      "images": [
+        "foundation 9.webp"
+      ]
+    },
+    {
+      "id": "5",
+      "name": "Sunscreen",
+      "price": 599,
+      "images": [
+        "lakme 1.avif"
+      ]
+    },
+    {
+      "id": "6",
+      "name": "Hair Serum",
+      "price": 500,
+      "images": [
+        "livon 5.webp"
+      ]
+    },
+    {
+      "id": "7",
+      "name": "lipstick",
+      "price": 4099,
+      "images": [
+        "mac 11.jpg"
+      ]
+    },
+    {
+      "id": "8",
+      "name": "Kajal",
+      "price": 899,
+      "images": [
+        "kajal 1.webp"
+      ]
+    },
+    {
+      "id": "9",
+      "name": "Hair dryer",
+      "price": 1500,
+      "images": [
+        "philips 7.jpeg"
+      ]
+    }
+  ],
+  "cart": [
+    {
+      "id": "2",
+      "name": "Lotion",
+      "price": 799,
+      "image": "lotion joy.webp"
+    },
+    {
+      "id": "1",
+      "name": "Facewash",
+      "price": 800,
+      "image": "mamaearth facewash.jpeg"
+    },
+    {
+      "id": "1",
+      "name": "Facewash",
+      "price": 800,
+      "image": "mamaearth facewash.jpeg"
+    },
+    {
+      "id": "2",
+      "name": "Lotion",
+      "price": 799,
+      "image": "lotion joy.webp"
+    },
+    {
+      "id": "1",
+      "name": "Facewash",
+      "price": 800,
+      "image": "mamaearth facewash.jpeg"
+    },
+    {
+      "id": "1",
+      "name": "Facewash",
+      "price": 800,
+      "image": "mamaearth facewash.jpeg"
+    },
+    {
+      "id": "1",
+      "name": "Facewash",
+      "price": 800,
+      "image": "mamaearth facewash.jpeg"
+    }
+  ]
+}
